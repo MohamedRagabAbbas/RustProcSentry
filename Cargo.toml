@@ -1,0 +1,13 @@
+# Cargo.toml
+
+[package]
+name = "linux_task_manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced = { version = "0.10", features = ["tokio", "canvas"] }
+sysinfo = "0.28"
+nix = "0.26"
+tokio = { version = "1", features = ["full"] }
+clap = { version = "4.0", features = ["derive"] }
