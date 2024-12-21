@@ -1,7 +1,7 @@
 # RustProcSentry
 
 A Rust-based application for listing, monitoring, and controlling system processes in Linux. It combines a Command-Line Interface (CLI) and a Graphical User Interface (GUI) to give you total control over your processes.
-<img src="src/gui.JPG" width="600" height="400" >
+<img src="src/gui.JPG" width="900" height="600" >
 
 ## Table of Contents
 - [Features](#features)
