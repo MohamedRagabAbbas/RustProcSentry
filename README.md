@@ -1,4 +1,4 @@
-# Linux Process Manager
+# RustProcSentry
 
 A Rust-based application for listing, monitoring, and controlling system processes in Linux. It combines a Command-Line Interface (CLI) and a Graphical User Interface (GUI) to give you total control over your processes.
 
